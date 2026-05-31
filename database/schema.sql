@@ -1,0 +1,8 @@
+-- Tabelas principais
+-- usuários
+-- pacientes
+-- dentistas
+-- consultas
+-- procedimentos
+-- pagamentos
+-- prontuarios
