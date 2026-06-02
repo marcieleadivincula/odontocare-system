@@ -1,0 +1,9 @@
+.button {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  left: 275px;
+  top: 566px;
+
+  background: #4c525c;
+}

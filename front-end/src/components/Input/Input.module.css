@@ -1,0 +1,11 @@
+/* Text input */
+.input {
+  position: absolute;
+  width: 303px;
+  height: 60px;
+  left: 36px;
+  top: 396px;
+
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}

@@ -3,6 +3,8 @@ import reactLogo from "../src/assets/icons/react.svg";
 import viteLogo from "../src/assets/icons/vite.svg";
 import heroImg from "../src/assets/images/hero.png";
 import "../src/styles/global.css";
+// src/App.tsx
+// const apiUrl = import.meta.env.VITE_API_URL;
 
 function App() {
   const [count, setCount] = useState(0);
